@@ -6,9 +6,15 @@ title: Home
 <!-- Hero Section -->
 <section class="hero">
   <div class="container">
-    <h1 class="display-3 fw-bold mb-4">Welcome to NoynaSec</h1>
-    <p class="lead mb-4">A clean, modern, and responsive Bootstrap-powered Jekyll website</p>
-    <a href="#about" class="btn btn-light btn-lg">Learn More</a>
+    <div class="row align-items-center">
+      <div class="col-lg-6">
+        <h1 class="display-3 fw-bold mb-4">Open surveillance for closed perimeters.</h1>
+        <p class="lead mb-4">Advanced security solutions for your protection needs</p>
+      </div>
+      <div class="col-lg-6">
+        <img src="/assets/images/hero.jpg" alt="NoynaSec Security" class="hero-image">
+      </div>
+    </div>
   </div>
 </section>
 
